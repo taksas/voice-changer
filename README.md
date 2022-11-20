@@ -1,6 +1,12 @@
-Voice Changer Trainer and Player Container
+Voice Changer Trainer and Player Container（ROHAN4600対応鬼畜版）
 ----
 # 概要
+w-okadaさんが作成したアプリケーションのレコーダー機能に、ROHAN4600（ROHANコーパス）録音機能を実装しました。
+それ以外のアプリケーションは全く同じです。
+ITAコーパスの500文に飽き足らないやべー方は是非ROHANコーパスの4600文に挑戦してみてください！！！！！！！！！！！！！！！！
+
+----
+# ほんとの概要
 AIを使ったリアルタイムボイスチェンジャー[MMVC](https://github.com/isletennos/MMVC_Trainer)のヘルパーアプリケーションです。
 
 MMVCで必要となる一連の作業（トレーニング用の音声の録音、トレーニング、ボイスチェンジャ）をお手軽に実行できます。
