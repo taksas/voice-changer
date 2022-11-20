@@ -7,6 +7,8 @@ w-okadaさんが作成したアプリケーションのレコーダー機能に�
 
 ITAコーパスの500文に飽き足らないやべー方は是非ROHANコーパスの4600文に挑戦してみてください！！！！！！！！！！！！！！！！
 
+[録音アプリ（ROHAN4600対応版） on Github Pages](https://taksas.github.io/voice-changer/)
+
 
 ----
 # ほんとの概要
