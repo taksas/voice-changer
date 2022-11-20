@@ -27,8 +27,8 @@
         {
             "title": "ROHAN4600",
             "wavPrefix": "rohan4600",
-            "file": "./assets/text/rohan4600.txt",
-            "file_hira": "./assets/text/rohan4600_hira.txt"
+            "file": "./assets/text/rohan4600_all.txt",
+            "file_hira": "./assets/text/rohan4600_all_hira.txt"
         }
     ]
 }
