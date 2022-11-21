@@ -1,4 +1,4 @@
-Voice Changer Trainer and Player Container（ROHAN4600対応鬼畜版）
+「「「「「開発中（動作不可 ～ミスってmasterで作業してますが面倒なのでこのまま開発します～）」」」」」　Voice Changer Trainer and Player Container（ROHAN4600対応鬼畜版）
 ----
 # 概要
 w-okadaさんが作成したアプリケーションのレコーダー機能に、ROHAN4600（ROHANコーパス）録音機能を実装しました。
